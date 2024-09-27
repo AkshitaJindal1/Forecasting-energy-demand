@@ -1,4 +1,4 @@
-# Forecasting-energy-demand
+# Forecasting Energy Demand
 **Task:** 
 
 Forecast a week of demand and import data based on a 3 month dataset of historic power flows.
